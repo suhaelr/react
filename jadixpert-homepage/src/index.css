@@ -1,0 +1,39 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply bg-gray-100 text-gray-800;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  @apply font-bold;
+}
+
+a {
+  @apply text-blue-600 hover:text-blue-800;
+}
+
+button {
+  @apply bg-blue-600 text-white font-semibold py-2 px-4 rounded;
+}
+
+.container {
+  @apply max-w-7xl mx-auto px-4;
+}
+
+.header {
+  @apply sticky top-0 bg-white shadow-md z-50;
+}
+
+.footer {
+  @apply bg-gray-800 text-white py-8;
+}
+
+.card {
+  @apply bg-white rounded-lg shadow-md p-4;
+}
+
+.testimonial {
+  @apply flex items-center space-x-4;
+}
