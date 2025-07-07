@@ -121,6 +121,7 @@ Frontend dapat diakses di http://localhost:3000
 
 ---
 
+<<<<<<< HEAD:jadixpert-homepage/README.md
 ## Cara Menambah Menu & Page di Navbar dan Footer
 
 ### Navbar (Header)
@@ -286,3 +287,6 @@ npm run build
 Dengan langkah di atas, Anda dapat menambah menu/page, integrasi database PostgreSQL, dan hosting project secara production-ready.
 
 **Untuk pertanyaan atau pengembangan lebih lanjut, silakan hubungi tim Jadixpert.**
+=======
+**Untuk pertanyaan atau pengembangan lebih lanjut, silakan hubungi tim Jadixpert.**
+>>>>>>> f617bae4570f4177b688ea157d5c6670ce25f304:README.md
